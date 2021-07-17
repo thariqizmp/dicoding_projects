@@ -33,7 +33,7 @@ Accuracy :
 ## Image Classification with Model Deployment
 Proyek Akhir - Image Classification Model Deployment - Belajar Pengembangan Machine Learning - Dicoding \
 Dataset : "Animal Faces" \
-Link : https://www.kaggle.com/andrewmvd/animal-faces
+Link : https://www.kaggle.com/andrewmvd/animal-faces \
 Model CNN + Callbacks
 
 Accuracy :
